@@ -1,0 +1,21 @@
+﻿<Window x:Name="Readmin" x:Class="Tienda_Yefell.RegistroAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tienda_Yefell"
+        mc:Ignorable="d"
+        Title="RegistroAdmin" Height="450" Width="400">
+    <Grid Background="#FFE0DCDC">
+        <Label Content="Contraseña" HorizontalAlignment="Left" Margin="42,195,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <Label Content="Correo" HorizontalAlignment="Left" Margin="42,149,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="42,98,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.072,0.618" FontFamily="Times New Roman" FontSize="16"/>
+        <Label Content="Administrador" HorizontalAlignment="Left" Margin="139,38,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="18"/>
+        <TextBox x:Name="Nombre" HorizontalAlignment="Left" Margin="149,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="Correo" HorizontalAlignment="Left" Margin="149,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="Contraseña" HorizontalAlignment="Left" Margin="149,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontFamily="Times New Roman" FontSize="16"/>
+        <Button x:Name="Registrar" Content="Registrar" HorizontalAlignment="Left" Margin="149,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.508,2.206" FontFamily="Times New Roman" FontSize="16" Background="#FF49B0CA" Click="Registrar_Click"/>
+        <Button x:Name="Login" Content="Login" HorizontalAlignment="Left" Margin="32,376,0,0" VerticalAlignment="Top" Width="80" FontFamily="Times New Roman" FontSize="16" Background="#FFD4CD0F" Click="Login_Click"/>
+
+    </Grid>
+</Window>

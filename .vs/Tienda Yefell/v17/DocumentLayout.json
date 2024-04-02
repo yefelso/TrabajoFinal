@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\registroadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\registroadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\loginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\loginadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\registroadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\registroadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\loginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\loginadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\registrarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\loginusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\loginusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\registrarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|c:\\users\\user\\documents\\wpf\\tienda yefell\\tienda yefell\\loginusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FE9494-63AB-4302-BA55-5A95DD82198A}|Tienda Yefell\\Tienda Yefell.csproj|solutionrelative:tienda yefell\\loginusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda Yefell\\LoginAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginAdmin.xaml.cs",
+              "RelativeToolTip": "Tienda Yefell\\LoginAdmin.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADgv0kAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:13:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginAdmin.xaml",
+              "RelativeDocumentMoniker": "Tienda Yefell\\LoginAdmin.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginAdmin.xaml",
+              "RelativeToolTip": "Tienda Yefell\\LoginAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T05:07:21.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistroAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda Yefell\\RegistroAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistroAdmin.xaml.cs",
+              "RelativeToolTip": "Tienda Yefell\\RegistroAdmin.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADgv0sAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T05:04:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistroAdmin.xaml",
+              "RelativeDocumentMoniker": "Tienda Yefell\\RegistroAdmin.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistroAdmin.xaml",
+              "RelativeToolTip": "Tienda Yefell\\RegistroAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:56:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginUsuario.xaml",
+              "RelativeDocumentMoniker": "Tienda Yefell\\LoginUsuario.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginUsuario.xaml",
+              "RelativeToolTip": "Tienda Yefell\\LoginUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:36:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistrarCliente.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda Yefell\\RegistrarCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistrarCliente.xaml.cs",
+              "RelativeToolTip": "Tienda Yefell\\RegistrarCliente.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwE8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:55:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tienda Yefell\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\MainWindow.xaml",
+              "RelativeToolTip": "Tienda Yefell\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T00:52:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda Yefell\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tienda Yefell\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAWwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:52:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrarCliente.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistrarCliente.xaml",
+              "RelativeDocumentMoniker": "Tienda Yefell\\RegistrarCliente.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\RegistrarCliente.xaml",
+              "RelativeToolTip": "Tienda Yefell\\RegistrarCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T03:53:56.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "Tienda Yefell\\LoginUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WPF\\Tienda Yefell\\Tienda Yefell\\LoginUsuario.xaml.cs",
+              "RelativeToolTip": "Tienda Yefell\\LoginUsuario.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:38:50.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

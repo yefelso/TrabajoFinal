@@ -1,0 +1,36 @@
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\Tienda Yefell.exe
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\Tienda Yefell.deps.json
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\Tienda Yefell.runtimeconfig.json
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\Tienda Yefell.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\Tienda Yefell.pdb
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell_MarkupCompile.cache
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell_MarkupCompile.lref
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.g.resources
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.AssemblyInfo.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\refint\Tienda Yefell.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.pdb
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.genruntimeconfig.cache
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\ref\Tienda Yefell.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Yefell.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\RegistrarCliente.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\RegistrarCliente.baml
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\Tienda Y.05BAC82D.Up2Date
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\LoginUsuario.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\LoginUsuario.baml
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\LoginAdmin.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\RegistroAdmin.g.cs
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\LoginAdmin.baml
+C:\Users\USER\Documents\WPF\Tienda Yefell\Tienda Yefell\obj\Debug\net8.0-windows\RegistroAdmin.baml

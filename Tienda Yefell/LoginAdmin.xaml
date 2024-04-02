@@ -1,0 +1,19 @@
+﻿<Window x:Name="Loadmin" x:Class="Tienda_Yefell.LoginAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tienda_Yefell"
+        mc:Ignorable="d"
+        Title="LoginAdmin" Height="450" Width="400">
+    <Grid Background="#FFD2A6CA">
+        <Label Content="Admin" HorizontalAlignment="Left" Margin="170,44,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="18"/>
+        <Label Content="Contraseña" HorizontalAlignment="Left" Margin="32,172,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <Label Content="Correo" HorizontalAlignment="Left" Margin="32,120,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="Correo" HorizontalAlignment="Left" Margin="132,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" FontFamily="Times New Roman" FontSize="16"/>
+        <TextBox x:Name="Contraseña" HorizontalAlignment="Left" Margin="132,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" FontFamily="Times New Roman" FontSize="16"/>
+        <Button x:Name="Login" Content="Login" HorizontalAlignment="Left" Margin="170,265,0,0" VerticalAlignment="Top" Background="#FF54D88D" FontFamily="Times New Roman" FontSize="16" Click="Login_Click"/>
+        <Button x:Name="Registrar" Content="Registrar" HorizontalAlignment="Left" Margin="42,341,0,0" VerticalAlignment="Top" Background="#FF54D88D" FontFamily="Times New Roman" FontSize="16" Click="Registrar_Click"/>
+
+    </Grid>
+</Window>
